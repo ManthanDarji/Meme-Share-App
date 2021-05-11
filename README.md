@@ -19,3 +19,15 @@ This is the Meme share app. different funny Meme comes from the internet with us
 
 * shared the memes with adding text.
 <img src="https://github.com/ManthanDarji/Meme-Share-App/blob/feature/img/5.png" width="200" height="400" />
+
+
+Contributing
+==========
+Any kind of contributions are welcome.
+
+
+1. **Fork** the repo on GitHub.
+2. **Clone** the project to your own machine.
+3. **Commit** changes to **development** branch.
+4. **Push** your work back up to your fork.
+5. Submit a **Pull request** so that I can review your changes
